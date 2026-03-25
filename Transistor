@@ -1,9 +1,9 @@
-Los transistores son dispositivos fundamentales en la eletronica moderna.
+Los transistores son dispositivos fundamentales en la electronica moderna.
 Permiten controlar el flujo de corriente y son la base de casi todos los circuitos actuales.
-Desde radios hasta computadoras, su uso es practcamente indispensable.
+Desde radios hasta computadoras, su uso es practicamente indispensable.
 
 Un transistor puede funcionar como amplificador o como interruptor.
-En su forma más basica, está compuesto por tres terminales.
+En su forma mas basica, esta compuesto por tres terminales.
 Estas terminales suelen llamarse emisor, base y colector.
 
 Existen diferentes tipos de transistores.
@@ -14,7 +14,7 @@ Los transistores bipolares se conocen como BJT.
 Estos dispositivos funcionan mediante corriente.
 Es decir, una pequeña corriente en la base controla una corriente mayor entre colector y emisor.
 
-El funcionamiento interno de un transistor es interesante.
+El funcionamiento interno de un transistor es intersante.
 Se basa en la union de materiales semiconductores.
 Estas uniones pueden ser tipo N o tipo P.
 
@@ -24,10 +24,10 @@ Sin embargo, el principio general de operacion es similar.
 
 En un transistor NPN, la corriente entra por el colector.
 Luego sale por el emisor, controlada por la base.
-Este control es lo que permite la amplifiacion.
+Este control es lo que permite la amplificcion.
 
 En cambio, en un transistor PNP, la direccion de la corriente es inversa.
-Esto puede generar confunsion en estudiantes que recien comienzan.
+Esto puede generar confuzion en estudiantes que recien comienzan.
 
 Para entender mejor el funcionamiento, es importante analizar las tensiones.
 La base debe estar a un potencial adecuado para activar el transistor.
@@ -47,7 +47,7 @@ Es un parametro muy importante en el diseño de circuitos.
 
 Sin embargo, la ganancia no es constante.
 Puede variar segun el dispositivo y las condiciones de operacion.
-Por eso, los ingenieros deben tener en cuenta estos factores.
+Por eso, los ingenieros deben tener en cuenta estos factorez.
 
 Ademas de los BJT, existen los transistores MOSFET.
 Estos dispositivos funcionan de manera diferente.
@@ -65,7 +65,7 @@ En la actualidad, los MOSFET son ampliamente utilizados.
 Forman parte de microprocesadores y memorias.
 Su tamaño reducido permite integrar millones en un solo chip.
 
-La miniaturizacion de los transistores ha sido clave en la evolucion tecnologica.
+La miniaturizacion de los transistores ha sido clave en la evolucon tecnologica.
 Gracias a esto, los dispositivos electronicos son cada vez mas potentes.
 Tambien son mas eficientes y consumen menos energia.
 
@@ -79,7 +79,7 @@ Esto permite crear estructuras extremadamente pequeñas.
 
 Los materiales mas utilizados son el silicio y, en algunos casos, el germanio.
 Tambien se investigan nuevos materiales como el grafeno.
-Estos podrian mejorar el rendimiento de los dispositivos.
+Estos podran mejorar el rendimiento de los dispositivos.
 
 El uso correcto de los transistores requiere conocimiento.
 Es importante entender sus limites de tension y corriente.
@@ -105,6 +105,6 @@ Los transistores tambien se utilizan en fuentes de alimentacion.
 Regulan la tension de salida.
 Esto garantiza un funcionamiento estable de los dispositivos.
 
-En resumen, los transistores son componentes esenciales.
+En resumen, los transistores son componentes escenciales.
 Su versatilidad los hace indispensables en la tecnologia actual.
 Comprender su funcionamiento es clave para cualquier estudiante de electronica.
