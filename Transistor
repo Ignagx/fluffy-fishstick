@@ -41,7 +41,7 @@ El canal permite el paso de corriente.
 La tecnologia MOS domina la industria actual.
 Permite fabricar circuitos muy complejos.
 Los transistores trabajan en distintas regiones.
-Pueden estar en corte, activa o saturacion.
+Pueden estar en corte, activa o saturación.
 Cada region tiene un uso especifico.
 En corte no hay corriente significativa.
 En saturacion el transistor conduce al maximo.
