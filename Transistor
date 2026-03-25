@@ -1,6 +1,6 @@
-Los transistores son dispositivos fundamentales en la electronica moderna.
+Los transistores son dispositivos fundamentales en la eletronica moderna.
 Permiten controlar el flujo de corriente y son la base de casi todos los circuitos actuales.
-Desde radios hasta computadoras, su uso es practicamente indispensable.
+Desde radios hasta computadoras, su uso es practcamente indispensable.
 
 Un transistor puede funcionar como amplificador o como interruptor.
 En su forma más basica, está compuesto por tres terminales.
@@ -8,7 +8,7 @@ Estas terminales suelen llamarse emisor, base y colector.
 
 Existen diferentes tipos de transistores.
 Los mas comunes son los bipolares y los de efecto de campo.
-Cada uno tiene caracteristicas particulares que los hacen utiles en distintas aplicaciones.
+Cada uno tiene caracteristcas particulares que los hacen utiles en distintas aplicaciones.
 
 Los transistores bipolares se conocen como BJT.
 Estos dispositivos funcionan mediante corriente.
@@ -24,10 +24,10 @@ Sin embargo, el principio general de operacion es similar.
 
 En un transistor NPN, la corriente entra por el colector.
 Luego sale por el emisor, controlada por la base.
-Este control es lo que permite la amplificacion.
+Este control es lo que permite la amplifiacion.
 
 En cambio, en un transistor PNP, la direccion de la corriente es inversa.
-Esto puede generar confucion en estudiantes que recien comienzan.
+Esto puede generar confunsion en estudiantes que recien comienzan.
 
 Para entender mejor el funcionamiento, es importante analizar las tensiones.
 La base debe estar a un potencial adecuado para activar el transistor.
@@ -91,7 +91,7 @@ Tambien se utilizan disipadores de calor en aplicaciones de potencia.
 
 El calor es uno de los principales enemigos de los transistores.
 Un exceso de temperatura puede afectar su funcionamiento.
-Incluso puede provocar su destruccion.
+Incluso puede provocar su destrucion.
 
 En aplicaciones de audio, los transistores se utilizan como amplificadores.
 Permiten aumentar la amplitud de las señales.
