@@ -28,7 +28,7 @@ Esto depende de las condiciones del material.
 El dopage permite modificar sus propiedades.
 Se agregan impurezas para controlar la conduccion.
 Existen materiales tipo N y tipo P.
-La union de estos forma una juntura PN.
+La union de estos forma una union PN.
 Esta estructura es clave en los transistores.
 El transistor bipolar utiliza dos uniones PN.
 Su funcionamiento depende de corrientes internas.
